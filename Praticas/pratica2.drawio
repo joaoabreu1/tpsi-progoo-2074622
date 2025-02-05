@@ -4,11 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TVXeCQi6dq-kcTkniq2x-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TVXeCQi6dq-kcTkniq2x-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="171" y="90" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TVXeCQi6dq-kcTkniq2x-8" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="55" y="60" width="30" height="60" as="geometry" />
         </mxCell>
@@ -78,9 +73,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PcQSfUDGlHK1d5OxVy07-12" value="Envia Email com o valor em atraso" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PcQSfUDGlHK1d5OxVy07-4">
-          <mxGeometry x="0.1667" y="-2" relative="1" as="geometry">
+          <mxGeometry x="0.0154" relative="1" as="geometry">
             <mxPoint x="-85.5" y="-380" as="sourcePoint" />
             <mxPoint x="140" y="-390" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PcQSfUDGlHK1d5OxVy07-13" value="Envia Email com Livros em falta para entrega&amp;nbsp;&lt;br&gt;+&lt;br&gt;Montante total a pagar" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0525" y="-20" relative="1" as="geometry">
+            <mxPoint x="130" y="389.5" as="sourcePoint" />
+            <mxPoint x="510" y="390" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
