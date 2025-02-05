@@ -78,11 +78,18 @@
             <mxPoint x="729.5" y="-50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gk-17GvAa4D1x0TPYQi8-39" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;Nº Aluno + Email&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gk-17GvAa4D1x0TPYQi8-34">
-          <mxGeometry x="-0.375" y="-20" relative="1" as="geometry">
+        <mxCell id="gk-17GvAa4D1x0TPYQi8-39" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;Nº de Emprétimo (ID)&lt;br&gt;+&lt;br&gt;Data de Entrega,&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;+&lt;br&gt;Nº Aluno&lt;br&gt;+&lt;br&gt;&amp;nbsp;Email&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gk-17GvAa4D1x0TPYQi8-34">
+          <mxGeometry x="-0.6552" y="-40" relative="1" as="geometry">
             <mxPoint x="730" y="-170" as="sourcePoint" />
-            <mxPoint x="730" y="-290" as="targetPoint" />
+            <mxPoint x="730" y="-420" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gk-17GvAa4D1x0TPYQi8-40" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;Nome do Livro&lt;br&gt;+&lt;br&gt;Data de Entrega&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry x="-0.375" y="-30" relative="1" as="geometry">
+            <mxPoint x="569.5" y="-130" as="sourcePoint" />
+            <mxPoint x="570" y="-380" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
