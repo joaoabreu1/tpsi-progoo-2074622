@@ -65,7 +65,7 @@
         <mxCell id="PcQSfUDGlHK1d5OxVy07-7" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-270" y="-300" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PcQSfUDGlHK1d5OxVy07-11" value="Envia Aviso por correio eletrónico" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0.307;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PcQSfUDGlHK1d5OxVy07-4">
+        <mxCell id="PcQSfUDGlHK1d5OxVy07-11" value="Envia Aviso de devolução por correio eletrónico" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0.307;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PcQSfUDGlHK1d5OxVy07-4">
           <mxGeometry x="0.1667" y="-2" relative="1" as="geometry">
             <mxPoint x="-270" y="-460" as="sourcePoint" />
             <mxPoint x="-282" y="-550" as="targetPoint" />
