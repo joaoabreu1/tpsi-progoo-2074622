@@ -78,6 +78,13 @@
             <mxPoint x="729.5" y="-50" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="gk-17GvAa4D1x0TPYQi8-39" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;Nº Aluno + Email&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="gk-17GvAa4D1x0TPYQi8-34">
+          <mxGeometry x="-0.375" y="-20" relative="1" as="geometry">
+            <mxPoint x="730" y="-170" as="sourcePoint" />
+            <mxPoint x="730" y="-290" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
