@@ -230,6 +230,12 @@
         <mxCell id="tYYlDMSHgzgQFrv5HUEB-82" value="Include" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="500" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="tYYlDMSHgzgQFrv5HUEB-95" value="Funcionario" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="230" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tYYlDMSHgzgQFrv5HUEB-96" value="Autentica" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="250" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
